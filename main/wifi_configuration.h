@@ -21,6 +21,7 @@ static struct {
      {.ssid = "Tgateway-2.4G", .password = "qwer12345"},
 };
 
+
 #define WIFI_LIST_SIZE (sizeof(wifi_list) / sizeof(wifi_list[0]))
 
 #define USE_MDNS       1
